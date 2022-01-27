@@ -8,4 +8,4 @@ Dieser Branch zeigt die Grundlagen eines Webprojektes
 
 ## Branch "2-Komponenten"
 
-Dieser Branch zeigt wie man eigene Komponenten erstellt
+Dieser Branch zeigt wie man eigene Komponenten erstellt.
