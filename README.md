@@ -4,4 +4,4 @@ Dieses Projekt dient dazu zu testen, ob man ein Schritt-für-Schritt-Projekt mit
 
 ## Branch "1-Einführung"
 
-Dieser Branch zeigt die Grundlagen eines Webprojektes
+Dieser Branch zeigt die Grundlagen eines Webprojektes.
